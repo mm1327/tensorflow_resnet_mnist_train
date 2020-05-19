@@ -4,6 +4,8 @@
 
 
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
 tensorflow 1.14.0
 
 ** 训练 **
