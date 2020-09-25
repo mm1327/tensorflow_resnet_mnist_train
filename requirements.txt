@@ -61,7 +61,7 @@ tensorboard==1.14.0
 tensorboard-plugin-wit==1.6.0.post3
 tensorboardX==2.0
 tensorflow-estimator==1.14.0
-tensorflow-gpu==1.14.0
+tensorflow-gpu==1.15.4
 termcolor==1.1.0
 tifffile==2020.5.11
 toml==0.10.0
